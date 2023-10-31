@@ -6,7 +6,7 @@
 <img src="IOS_256/Bluestar.png" alt="Github Project" style="width:20%;"> 
 <img src="IOS_256/Bodhi.png" alt="Github Project" style="width:20%;"> 
 <img src="IOS_256/Bunsenlabs.png" alt="Github Project" style="width:20%;"> 
-<img src="IOS_256/Centos.png" alt="Github Project" style="width:20%;"> 
+<img src="IOS_256/CentOS.png" alt="Github Project" style="width:20%;"> 
 <img src="IOS_256/Clear.png" alt="Github Project" style="width:20%;"> 
 <img src="IOS_256/Debian.png" alt="Github Project" style="width:20%;"> 
 <img src="IOS_256/Deepin.png" alt="Github Project" style="width:20%;"> 
@@ -45,7 +45,7 @@
 <img src="IOS_256/Raspios.png" alt="Github Project" style="width:20%;"> 
 <img src="IOS_256/ReactOS.png" alt="Github Project" style="width:20%;"> 
 <img src="IOS_256/Rebornos.png" alt="Github Project" style="width:20%;"> 
-<img src="IOS_256/Redhat.png" alt="Github Project" style="width:20%;"> 
+<img src="IOS_256/RedHat.png" alt="Github Project" style="width:20%;"> 
 <img src="IOS_256/Rosa.png" alt="Github Project" style="width:20%;"> 
 <img src="IOS_256/Septor.png" alt="Github Project" style="width:20%;"> 
 <img src="IOS_256/Slackware.png" alt="Github Project" style="width:20%;"> 
