@@ -8,9 +8,10 @@ Use them as you wish, and hope you like it.
 
 #### View `IOS` complet [Icon Set](https://github.com/chris1111/Linux-Logo-Blue-Grey/blob/main/View-Set-IOS.md)
 
-Download ➤ [IOS 512](https://chris1111.github.io/DownGit/#/home?url=https://github.com/chris1111/Linux-Logo-Blue-Grey/tree/main/IOS_512)
+Download ➤ [IOS 512](https://github.com/chris1111/Linux-Logo-Blue-Grey/releases/download/V1/IOS_512.zip)
 
-Download ➤ [IOS 256](https://chris1111.github.io/DownGit/#/home?url=https://github.com/chris1111/Linux-Logo-Blue-Grey/tree/main/IOS_256)
+Download ➤ [IOS 256](https://github.com/chris1111/Linux-Logo-Blue-Grey/releases/download/V1/IOS_256.zip)
+
 
 Other Linux Icons  ➤ [Linux_Android_Icons](https://github.com/chris1111/Linux_Android_Icons) ➤ [Linux-Logo-LineForm](https://github.com/chris1111/Linux-Logo-LineForm) ➥ [Purple_Ring_Linux_Logo](https://github.com/chris1111/Purple_Ring_Linux_Logo) ➥ [Linux-Logo-Black-White](https://github.com/chris1111/Linux-Logo-Black-White)
 
